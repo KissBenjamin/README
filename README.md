@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/hRDT3vO.gif" alt="coding banner" width="800"/>
+  <img src="https://wallpapers.com/images/hd/welcome-to-my-world-x2te7dlxk3f93leo.jpg)" alt="coding banner" width="800"/>
 </p>
 
 # 👋 Hi, I’m Benjámin Soma Kiss
