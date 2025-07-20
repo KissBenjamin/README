@@ -79,5 +79,5 @@ I’m currently open to **junior-level IT positions** where I can:
 
 ---
 
-*“Technology is best when it brings people together.” – Matt Mullenweg*
-**
+*“He who loves to sleep, and the folding of hand, poverty will set upon you like a thief in the night"*
+
