@@ -60,20 +60,18 @@ I’m currently open to **junior-level IT positions** where I can:
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- Contribution heatmap (reliable SVG) -->
-  <img src="https://ghchart.rshah.org/KissBenjamin" alt="GitHub Contribution Chart" width="400"/>
+  <!-- 1) Contribution heatmap -->
+  <img src="https://ghchart.rshah.org/KissBenjamin" alt="GitHub Contribution Chart" width="400" />
 
-  <!-- Spacer -->
-  <br/><br/>
+  <!-- 2) Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KissBenjamin&layout=compact&theme=github_dark" alt="Top Languages" width="400" />
 
-  <!-- Followers & Stars badges -->
-  <a href="https://github.com/KissBenjamin?tab=followers">
-    <img src="https://img.shields.io/github/followers/KissBenjamin?label=Followers&style=flat-square" alt="Followers"/>
-  </a>
-  <a href="https://img.shields.io/github/stars/KissBenjamin?label=Stars&style=flat-square" alt="Stars"/>
+  <!-- 3) GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KissBenjamin&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" width="400" />
 </p>
 
 
