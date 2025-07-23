@@ -63,17 +63,17 @@ I’m currently open to **junior-level IT positions** where I can:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- Contribution heatmap (static, no API rate‑limits) -->
-  <img src="https://ghchart.rshah.org/KissBenjamin" alt="GitHub Contribution Chart" width="600"/>
+  <!-- Contribution heatmap (reliable SVG) -->
+  <img src="https://ghchart.rshah.org/KissBenjamin" alt="GitHub Contribution Chart" width="400"/>
 
-  <!-- Social badges for followers & stars -->
-  <br/>
+  <!-- Spacer -->
+  <br/><br/>
+
+  <!-- Followers & Stars badges -->
   <a href="https://github.com/KissBenjamin?tab=followers">
-    <img src="https://img.shields.io/github/followers/KissBenjamin?label=Followers&style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/KissBenjamin?label=Followers&style=flat-square" alt="Followers"/>
   </a>
-  <a href="https://github.com/KissBenjamin?tab=repositories">
-    <img src="https://img.shields.io/github/stars/KissBenjamin?label=Stars&style=social" alt="Stars"/>
-  </a>
+  <a href="https://img.shields.io/github/stars/KissBenjamin?label=Stars&style=flat-square" alt="Stars"/>
 </p>
 
 
