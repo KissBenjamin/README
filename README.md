@@ -38,16 +38,6 @@ Although I don’t yet have corporate IT experience, I bring a solid foundation 
 
 ---
 
-## 🚀 Projects (In Progress)
-
-🔄 **PLC-based Conveyor Belt Controller** *(Siemens TIA Portal)*  
-🛍️ **E-commerce Web App** *(Java Spring Boot & MySQL)*  
-📊 **SAP ABAP Custom Report Development** *(ALV grid, CRUD operations)*  
-💬 **Real-time Chat Application** *(JavaFX & WebSockets)*  
-
-👉 *Check back soon for project links!*
-
----
 
 ## 🎯 What I’m Looking For
 
