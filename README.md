@@ -54,7 +54,7 @@ I’m currently open to **junior-level IT positions** where I can:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KissBenjamin&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=KissBenjamin&theme=github-dark&hide_border=true" alt="GitHub Streak" width="400"/>
+
 </p>
 
 ---
