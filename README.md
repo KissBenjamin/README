@@ -1,5 +1,6 @@
 
 
+
 # 👋 Hi, I’m Benjámin Soma Kiss
 
 🎓 *Junior Software Developer | Aspiring SAP ABAP / PLC Engineer*  
@@ -38,6 +39,16 @@ Although I don’t yet have corporate IT experience, I bring a solid foundation 
 
 ---
 
+## 🚀 Projects (In Progress)
+
+🔄 **PLC-based Conveyor Belt Controller** *(Siemens TIA Portal)*  
+🛍️ **E-commerce Web App** *(Java Spring Boot & MySQL)*  
+📊 **Top 20 most streamed song app** *(Java, Docker, Postman )*  
+💬 **Sudoku game with difficulty levels** *(Java, JFrame)*  
+
+👉 *Check back soon for project links!*
+
+---
 
 ## 🎯 What I’m Looking For
 
@@ -50,14 +61,20 @@ I’m currently open to **junior-level IT positions** where I can:
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KissBenjamin&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" width="400"/>
+  <!-- 1) Contribution heatmap -->
+  <img src="https://ghchart.rshah.org/KissBenjamin" alt="GitHub Contribution Chart" width="400" />
 
+  <!-- 2) Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KissBenjamin&layout=compact&theme=github_dark" alt="Top Languages" width="400" />
+
+  <!-- 3) GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KissBenjamin&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" width="400" />
 </p>
 
----
 
 ## 📫 Let’s Connect!
 
