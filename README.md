@@ -65,13 +65,11 @@ I’m currently open to **junior-level IT positions** where I can:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- 1) Contribution heatmap -->
-  <img src="https://ghchart.rshah.org/KissBenjamin" alt="GitHub Contribution Chart" width="400" />
-
-  <!-- 2) Top languages -->
+  
+  <!-- 1) Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KissBenjamin&layout=compact&theme=github_dark" alt="Top Languages" width="400" />
 
-  <!-- 3) GitHub stats -->
+  <!-- 2) GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=KissBenjamin&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" width="400" />
 </p>
 
